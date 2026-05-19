@@ -35,6 +35,11 @@ Returns a greeting page with a name parameter.
 
 ### Home Page (localhost:8080)
 ![Home Page](screenshots/screenshotshome.png)
+<img width="1919" height="969" alt="Screenshot 2026-05-19 025205" src="https://github.com/user-attachments/assets/b2a09e20-690c-49d1-9a81-8f6ee5f94ad3" />
+
+
 
 ### Greeting Page (localhost:8080/greeting?name=Vistula)
 ![Greeting Page](screenshots/screenshotsgreeting.png)
+<img width="1907" height="942" alt="Screenshot 2026-05-19 025214" src="https://github.com/user-attachments/assets/c861cc42-5dd9-4736-89a5-04207511de38" />
+
